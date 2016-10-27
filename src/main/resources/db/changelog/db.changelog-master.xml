@@ -52,7 +52,7 @@
     <constraints nullable="true" />
    </column>
  </createTable>
-</changeSet>
+</changeSet>-->
 
 <!-- <changeSet author="mano (generated)" id="5-1"
   objectQuotingStrategy="QUOTE_ALL_OBJECTS">
