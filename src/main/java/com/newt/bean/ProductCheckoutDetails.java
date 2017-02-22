@@ -34,7 +34,7 @@ public class ProductCheckoutDetails {
 
  public Long getCustomerId() {
   return customerId;
- }
+ } 
 
  public void setCustomerId(Long customerId) {
   this.customerId = customerId;
