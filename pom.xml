@@ -226,6 +226,41 @@
                     </goals>
                 </execution>
             </executions>
+	  
+	   
+	   
+	   
+	   
+	   
+	   
+	   
+	   
+	   
+	   
+	   
+<resources>
+  <resource>
+    <directory>src/main/resources</directory>
+    <filtering>true</filtering>
+    <includes>
+      <include>**/*.version</include>
+      <include>**/*.properties</include>
+      <include>**/*.xml</include>
+      <include>**/*.csv</include>
+      <include>**/*.txt</include>
+      <include>**/*.gif</include>
+      <include>**/*.json</include>
+      <include>**/*.xlsx</include>
+	<include>**/*.zip</include>
+      <include>rythm/**</include>
+    </includes>
+  </resource>
+</resources>
+	   
+	   
+	   
+	   
+	   
         </plugin>
 		</plugins>
 	</build>
