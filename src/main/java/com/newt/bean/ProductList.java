@@ -80,5 +80,4 @@ public class ProductList {
 				+ productName + ", customerId=" + customerId + ", checkoutOrderId=" + checkoutOrderId
 				+ ", productStatus=" + productStatus + ", shoppingcartId=" + shoppingcartId + "]";
 	}
-
 }
