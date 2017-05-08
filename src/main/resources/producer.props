@@ -1,4 +1,4 @@
-bootstrap.servers=ec2-52-207-22-180.compute-1.amazonaws.com:9092
+bootstrap.servers=192.168.2.91:9092
 acks=all
 retries=0
 batch.size=16384
