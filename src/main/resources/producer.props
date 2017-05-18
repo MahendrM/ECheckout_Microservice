@@ -1,4 +1,4 @@
-bootstrap.servers=192.168.2.91:9092
+bootstrap.servers=192.168.3.170:9092
 acks=all
 retries=0
 batch.size=16384
